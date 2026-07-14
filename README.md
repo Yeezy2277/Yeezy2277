@@ -32,4 +32,4 @@ I own the frontend end-to-end — component architecture, performance, and the C
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · Remote · available for full-time or B2B contract, working US-overlapping hours
+[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · Remote · available for full-time or B2B contract, working US Eastern hours (UTC-5)
