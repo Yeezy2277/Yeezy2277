@@ -1,12 +1,13 @@
-### Hi, I'm Vitalii 👋
+### Vitalii Popov — Senior Frontend Engineer
 
-**Senior Frontend Engineer** — I build product-oriented web platforms and own them end-to-end, from component architecture and performance to deployment.
+React · Next.js · TypeScript · Headless CMS (Contentful)
 
-🔹 **Stack:** React · Next.js · TypeScript · React Native
-🔹 **Also:** Headless CMS (Contentful) · GCP · CI/CD (GitHub Actions)
-🔹 **Focus:** content platforms, performance, clean maintainable frontend architecture
-🔹 **Working:** Remote · B2B · EU hours · based in Tbilisi (UTC+4)
+Most of my work over the past 5+ years lives in private client and corporate
+repositories (GitHub, GitLab, Bitbucket) under NDA — production frontends for
+European media, fintech and real-time platforms.
 
-Most of my recent work is under NDA / private, so the pinned projects below are a sample of public work.
+Since I can't show that code, I rebuilt the patterns I actually use in
+production as public, inspectable projects. **Start with the pinned repos** —
+each one is live, deployed, and the code is the point.
 
-📫 [LinkedIn](https://www.linkedin.com/in/vitalii-popovfront-dev)
+📍 [vitaliipopov.dev](https://vitaliipopov.dev) — all projects, live demos
