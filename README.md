@@ -1,8 +1,8 @@
 # Vitalii Popov
 
-**Senior Frontend Engineer** — React · Next.js · TypeScript · Headless CMS (Contentful)
+**Senior Fullstack Engineer** — React · Node.js · TypeScript · Headless CMS (Contentful)
 
-Most of my work over the past 5+ years lives in private client and corporate repositories (GitHub, GitLab, Bitbucket) under NDA — production frontends for European media and real-time platforms.
+Most of my work over the past 5+ years lives in private client and corporate repositories (GitHub, GitLab, Bitbucket) under NDA — production work for European media, B2B gaming and real-time platforms.
 
 Since I can't show that code, I rebuilt the patterns I actually use in production as public, inspectable projects. **Start with the pinned repos** — each one is live, deployed, and the code is the point.
 
@@ -12,9 +12,9 @@ Since I can't show that code, I rebuilt the patterns I actually use in productio
 
 ### What I do
 
-I own the frontend end-to-end — component architecture, performance, and the CI/CD pipeline that ships it — and I pick up the DevOps slack so delivery never blocks on someone else.
+I own features end-to-end: the React UI, the Node.js API, the service behind it (Java/Spring when needed) and the release.
 
-**Stack:** React · Next.js (App Router) · TypeScript · React Native · Contentful · GCP · CI/CD (GitHub Actions)
+**Stack:** React · Next.js (App Router) · TypeScript · Node.js (NestJS, Express) · Java (Spring Boot) · Contentful · GCP · CI/CD
 
 ---
 
@@ -32,4 +32,4 @@ I own the frontend end-to-end — component architecture, performance, and the C
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · Remote · available for full-time or B2B contract, working US Eastern hours (UTC-5)
+[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · São Paulo, Brazil · Remote · US business hours (UTC-3)
