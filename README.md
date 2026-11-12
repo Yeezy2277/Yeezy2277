@@ -1,35 +1,28 @@
 # Vitalii Popov
 
-**Senior Fullstack Engineer** — React · Node.js · TypeScript · Headless CMS (Contentful)
+**Senior Frontend Engineer** · React, TypeScript, Next.js, Node.js · São Paulo, Brazil, working US hours (UTC-3)
 
-Most of my work over the past 5+ years lives in private client and corporate repositories (GitHub, GitLab, Bitbucket) under NDA — production work for European media, B2B gaming and real-time platforms.
+I've spent six years building product web apps in React and TypeScript, and I work in Node.js when a feature needs it. Right now I own the back-office frontend and its NestJS BFF at a B2B iGaming platform. Before that I built the rich-text editor and the feeds platform for Paris Match on Contentful.
 
-Since I can't show that code, I rebuilt the patterns I actually use in production as public, inspectable projects. **Start with the pinned repos** — each one is live, deployed, and the code is the point.
+That client code is under NDA, so the repos below rebuild the same patterns in public. Each one is deployed and has a demo you can use without reading the code. The full list is at **[vitaliipopov.dev](https://vitaliipopov.dev)**.
 
-🔗 **[vitaliipopov.dev](https://vitaliipopov.dev)** — all projects with live demos
+### Projects
 
----
+| Project | What it rebuilds | Live |
+|---|---|---|
+| **[Podium](https://github.com/Yeezy2277/podium)** | A multi-tenant promo back office: NestJS and Prisma API with brand-level access, scheduled campaign lifecycle, React and MUI DataGrid admin. | [podium.vitaliipopov.dev](https://podium.vitaliipopov.dev) |
+| **[Wire](https://github.com/Yeezy2277/wire)** | The feeds pipeline I built at Paris Match: Contentful webhooks, deduplication, a queue and an idempotent worker that writes only changed feeds. | [wire.vitaliipopov.dev](https://wire.vitaliipopov.dev) |
+| **[Lumen](https://github.com/Yeezy2277/cms-blog)** | A content platform on Contentful with a typed Next.js publication, webhooks, a scheduled audit and content-model migrations. | [lumen.vitaliipopov.dev](https://lumen.vitaliipopov.dev) |
+| **[Rich Text Editor](https://github.com/Yeezy2277/cms-blog/tree/main/apps/rich-text-editor)** | A PlateJS editor for Contentful rich text with a round-trip-tested transform to Contentful's document JSON. | [rte.vitaliipopov.dev](https://rte.vitaliipopov.dev/?demo=1) |
+| **[Editorial Toolkit](https://github.com/Yeezy2277/cms-blog/tree/main/apps/editorial-toolkit)** | One Contentful app with seven editor tools across four locations, running against a mock CMS. | [toolkit.vitaliipopov.dev](https://toolkit.vitaliipopov.dev/?demo=1) |
+| **[Pulse](https://github.com/Yeezy2277/live-ops-console)** | A real-time console for a multiplayer game, painted on canvas at 60 fps outside React's render cycle. | [pulse.vitaliipopov.dev](https://pulse.vitaliipopov.dev) |
+| **[Girder](https://github.com/Yeezy2277/bim-clash-viewer)** | A browser BIM viewer in three.js with a unit-tested engine for hard and clearance clashes. | [girder.vitaliipopov.dev](https://girder.vitaliipopov.dev) |
+| **[Depot](https://github.com/Yeezy2277/depot)** | The backend half of a CMS: sessions, hashed delivery tokens and a typed Postgres content model. | [depot.vitaliipopov.dev](https://depot.vitaliipopov.dev) |
 
-### What I do
+### Stack
 
-I own features end-to-end: the React UI, the Node.js API, the service behind it (Java/Spring when needed) and the release.
-
-**Stack:** React · Next.js (App Router) · TypeScript · Node.js (NestJS, Express) · Java (Spring Boot) · Contentful · GCP · CI/CD
-
----
-
-### Pinned projects
-
-| Project | What it is |
-|---|---|
-| **[Lumen](https://github.com/Yeezy2277/cms-blog)** | A Contentful content platform — typed Next.js frontend, custom editor apps, webhooks, scheduled content audit, content-model migrations. [Live ↗](https://cms-blog-steel.vercel.app) |
-| **[Rich Text Editor](https://github.com/Yeezy2277/cms-blog/tree/main/apps/rich-text-editor)** | A custom PlateJS editor for Contentful Rich Text, with a round-trip-tested Contentful ⇄ Plate transform. [Live ↗](https://rte.vitaliipopov.dev/?demo=1) |
-| **[Editorial Toolkit](https://github.com/Yeezy2277/cms-blog/tree/main/apps/editorial-toolkit)** | One multi-location Contentful App — seven editor tools across four location types. [Live ↗](https://toolkit.vitaliipopov.dev/?demo=1) |
-| **[Pulse](https://github.com/Yeezy2277/live-ops-console)** | A real-time ops console — client-side simulation painted on canvas, 60fps rendering decoupled from React. [Live ↗](https://pulse.vitaliipopov.dev) |
-| **[Girder](https://github.com/Yeezy2277/bim-clash-viewer)** | A browser BIM coordination viewer — three.js scene, ghosted clash isolation, unit-tested clash-detection engine. [Live ↗](https://girder.vitaliipopov.dev) |
-
----
+React, Next.js (App Router), TypeScript, MUI, Node.js (NestJS, Express), Contentful (App Framework, migrations, webhooks), PlateJS, Java/Spring Boot (working proficiency), GCP, GitHub Actions.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · São Paulo, Brazil · Remote · US business hours (UTC-3)
+[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · [vitaliipopov.dev](https://vitaliipopov.dev)
