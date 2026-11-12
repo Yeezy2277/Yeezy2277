@@ -1,6 +1,6 @@
 # Vitalii Popov
 
-**Senior Frontend Engineer** · React, TypeScript, Next.js, Node.js · Remote B2B contractor, based in Lisbon (UTC+0/+1)
+**Senior Frontend Engineer.** React, TypeScript, Next.js, Node.js. Remote B2B contractor based in Lisbon (UTC+0/+1).
 
 I've spent six years building product web apps in React and TypeScript, and I work in Node.js when a feature needs it. Right now I own the back-office frontend and its NestJS BFF at a B2B iGaming platform. Before that I built the rich-text editor and the feeds platform for Paris Match on Contentful.
 
@@ -25,4 +25,4 @@ React, Next.js (App Router), TypeScript, MUI, Node.js (NestJS, Express), Content
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev) · [vitaliipopov.dev](https://vitaliipopov.dev)
+[LinkedIn](https://www.linkedin.com/in/vitalii-popov-front-dev), [vitaliipopov.dev](https://vitaliipopov.dev)
