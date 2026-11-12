@@ -1,6 +1,6 @@
 # Vitalii Popov
 
-**Senior Frontend Engineer** · React, TypeScript, Next.js, Node.js · São Paulo, Brazil, working US hours (UTC-3)
+**Senior Frontend Engineer** · React, TypeScript, Next.js, Node.js · Lisbon, Portugal, working European hours (UTC+0/+1)
 
 I've spent six years building product web apps in React and TypeScript, and I work in Node.js when a feature needs it. Right now I own the back-office frontend and its NestJS BFF at a B2B iGaming platform. Before that I built the rich-text editor and the feeds platform for Paris Match on Contentful.
 
