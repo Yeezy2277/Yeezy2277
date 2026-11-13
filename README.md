@@ -1,8 +1,8 @@
 # Vitalii Popov
 
-**Senior Frontend Engineer.** React, TypeScript, Next.js, Node.js. Remote B2B contractor based in Lisbon (UTC+0/+1).
+**Senior Full-stack Engineer who started in frontend.** React, TypeScript, Next.js, Node.js. Remote B2B contractor.
 
-I've spent six years building product web apps in React and TypeScript, and I work in Node.js when a feature needs it. Right now I own the back-office frontend and its NestJS BFF at a B2B iGaming platform. Before that I built the rich-text editor and the feeds platform for Paris Match on Contentful.
+I started in frontend and grew into full-stack product work: six years of React and TypeScript (data-heavy tools, editors and real-time interfaces), and since 2025 Node.js services and APIs as well. Right now I own the operator-facing app of a B2B iGaming platform from the React frontend through its NestJS BFF. Before that I built an event-driven feeds platform in Node.js and the newsroom's rich-text editor for Paris Match on Contentful.
 
 That client code is under NDA, so the repos below rebuild the same patterns in public. Each one is deployed and has a demo you can use without reading the code. The full list is at **[vitaliipopov.dev](https://vitaliipopov.dev)**.
 
