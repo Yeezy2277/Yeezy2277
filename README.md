@@ -2,7 +2,7 @@
 
 **Senior AI Product Engineer.** LLM apps (RAG, agents, evals) on React, Next.js, Node.js and TypeScript. Remote B2B contractor.
 
-I build product features end to end: six years of React and TypeScript (data-heavy tools, editors and real-time interfaces), and since 2025 Node.js services and APIs as well. Right now I own the operator-facing app of a B2B iGaming platform from the React frontend through its NestJS BFF. Before that I built an event-driven feeds platform in Node.js and the newsroom's rich-text editor for Paris Match on Contentful. At both I ship with a coding agent (Claude Code), set up with project instructions, hooks, subagents and MCP servers.
+I build product features end to end: six years of React and TypeScript (data-heavy tools, editors and real-time interfaces), and Node.js APIs since 2020 (Express and MongoDB, later NestJS), with backend services a main part of my work since 2025. Right now I own the operator-facing app of a B2B iGaming platform from the React frontend through its NestJS BFF. Before that I built an event-driven feeds platform in Node.js and the newsroom's rich-text editor for Paris Match on Contentful. At both I ship with a coding agent (Claude Code), set up with project instructions, hooks, subagents and MCP servers.
 
 ### Porter: an LLM product, built in public
 
